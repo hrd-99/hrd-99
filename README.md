@@ -27,6 +27,9 @@
 <img align="center" src="https://skillicons.dev/icons?i=golang,py,java,&theme=light" />
 </br>
 <img align="center" src="https://skillicons.dev/icons?i=mysql,redis,mongo,elasticsearch,&theme=light" />
+</br>
+<img align="center" src="https://skillicons.dev/icons?i=docker,k8s,&theme=light" />
+
 </p>
 
  
