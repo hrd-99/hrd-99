@@ -26,7 +26,7 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=golang,py,java,&theme=light" />
 </p>
-<img align="center" src="https://skillicons.dev/icons?i=mysql,redis,mongo,es&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=mysql,redis,mongo,elasticsearch,&theme=light" />
 </p>
  
 
