@@ -26,6 +26,8 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=golang,py,java,&theme=light" />
 </p>
+<img align="center" src="https://skillicons.dev/icons?i=mysql,redis,mongo,es&theme=light" />
+</p>
  
 
 <!-- https://github.com/kyechan99/capsule-render -->
