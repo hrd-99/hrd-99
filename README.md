@@ -24,7 +24,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuexing&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,flask,django,git,c,cpp,java,html,css,js,ts,vue,md,vite,electron,&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=py,git,java,golang,md,&theme=light" />
 </p>
  
 
