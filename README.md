@@ -22,13 +22,13 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yuexing&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuexing&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
+<!-- <br/> -->
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=golang,py,java,&theme=light" />
-</br>
-<img align="center" src="https://skillicons.dev/icons?i=mysql,redis,mongo,elasticsearch,&theme=light" />
-</br>
-<img align="center" src="https://skillicons.dev/icons?i=docker,k8s,&theme=light" />
+<!-- <img align="center" src="https://skillicons.dev/icons?i=golang,py,java,&theme=light" /> -->
+<!-- </br>
+<img align="center" src="https://skillicons.dev/icons?i=mysql,redis,mongo,elasticsearch,&theme=light" /> -->
+<!-- </br>
+<img align="center" src="https://skillicons.dev/icons?i=docker,k8s,&theme=light" /> -->
 
 </p>
 
